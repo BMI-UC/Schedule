@@ -1,4 +1,4 @@
-**Step1: Go to the google spreadsheet** 
+**Step 1: Go to the google spreadsheet** 
 
 https://docs.google.com/spreadsheets/d/1F0RBQgT-QfFQ9y8XKu8jGP-HMpRstzrGFnQtkEQJesI/edit?usp=sharing
 
