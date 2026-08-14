@@ -4,22 +4,22 @@
 
 **To update, see [how-to-update.md](how-to-update.md).**
 
-|   Week | Date        | Block                  | Topic                           |
-|-------:|:------------|:-----------------------|:--------------------------------|
-|      1 | Monday 8/24 | Student Assoc, EA6.101 | Introductions, General Business |
-|      1 | Thu 8/27    | Seminar, S1.203        | Juan Espinoza                   |
-|      2 | Mon 8/31    | Student Assoc, EA6.101 |                                 |
-|      3 | Thu 9/10    | Seminar, S1.203        | Yuqui Yang                      |
-|      4 | Mon 9/14    | Student Assoc, EA6.101 |                                 |
-|      5 | Thu 9/24    | Seminar, S1.203        | TBD                             |
-|      6 | Mon 9/28    | Student Assoc, EA6.101 |                                 |
-|      7 | Thu 10/8    | Seminar, S1.203        | Daniella Meeker                 |
-|      8 | Mon 10/12   | Student Assoc, EA6.101 | reading day* Columbus Day       |
-|      8 | Wed 10/14   | Alumni Seminar         | AJ Adejare                      |
-|      9 | Thu 10/22   | Seminar, S1.203        | Suzanne Bakken                  |
-|     10 | Mon 10/26   | Student Assoc, EA6.101 |                                 |
-|     11 | Monday 11/2 | Student Assoc, EA6.101 |                                 |
-|     12 | Thu 11/12   | Seminar, R Auditorium  | TBD                             |
-|     13 | Mon 11/16   | Student Assoc, EA6.101 |                                 |
-|     14 | Mon 11/23   | Student Assoc, EA6.102 |                                 |
-|     15 | Mon 11/30   | Student Assoc, EA6.103 |                                 |
+|   Week | Date      | Block                  | Topic                           |
+|-------:|:----------|:-----------------------|:--------------------------------|
+|      1 | Mon 8/24  | Student Assoc, EA6.101 | Introductions, General Business |
+|      1 | Thu 8/27  | Seminar, S1.203        | Juan Espinoza                   |
+|      2 | Mon 8/31  | Student Assoc, EA6.101 |                                 |
+|      3 | Thu 9/10  | Seminar, S1.203        | Yuqui Yang                      |
+|      4 | Mon 9/14  | Student Assoc, EA6.101 |                                 |
+|      5 | Thu 9/24  | Seminar, S1.203        | TBD                             |
+|      6 | Mon 9/28  | Student Assoc, EA6.101 |                                 |
+|      7 | Thu 10/8  | Seminar, S1.203        | Daniella Meeker                 |
+|      8 | Mon 10/12 | Student Assoc, EA6.101 | reading day* Columbus Day       |
+|      8 | Wed 10/14 | Alumni Seminar         | AJ Adejare                      |
+|      9 | Thu 10/22 | Seminar, S1.203        | Suzanne Bakken                  |
+|     10 | Mon 10/26 | Student Assoc, EA6.101 |                                 |
+|     11 | Mon 11/2  | Student Assoc, EA6.101 |                                 |
+|     12 | Thu 11/12 | Seminar, R Auditorium  | TBD                             |
+|     13 | Mon 11/16 | Student Assoc, EA6.101 |                                 |
+|     14 | Mon 11/23 | Student Assoc, EA6.102 |                                 |
+|     15 | Mon 11/30 | Student Assoc, EA6.103 |                                 |
