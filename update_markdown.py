@@ -36,7 +36,7 @@ def update_markdown(df, filename="Schedule/README.md"):
 
 if __name__ == "__main__":
     # Use the CSV export link for your Google Sheet
-    CSV_URL = "[https://docs.google.com/spreadsheets/d/1F0RBQgT-QfFQ9y8XKu8jGP-HMpRstzrGFnQtkEQJesI/export?format=csv&gid=0"
+    CSV_URL = "https://docs.google.com/spreadsheets/d/1F0RBQgT-QfFQ9y8XKu8jGP-HMpRstzrGFnQtkEQJesI/export?format=csv&gid=0"
     #df = fetch_google_sheet_csv(CSV_URL)
     df = fetch_google_sheet_csv(CSV_URL, sheet_name='2026')
 
