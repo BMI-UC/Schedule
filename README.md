@@ -22,3 +22,4 @@
 |     13 | Mon 11/16 | Student Assoc, EA6.101, 12PM-1PM |                                 |
 |     14 | Mon 11/23 | Student Assoc, EA6.101, 12PM-1PM |                                 |
 |     15 | Mon 11/30 | Student Assoc, EA6.101, 12PM-1PM |                                 |
+|        | Mon 12/14 | Student Assoc, EA6.101, 12PM-1PM |                                 |
