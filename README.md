@@ -9,16 +9,16 @@
 |      1 | Mon 8/24  | Student Assoc, EA6.101, 12PM-1PM | Introductions, General Business |
 |      1 | Thu 8/27  | Seminar, S1.203                  | Juan Espinoza                   |
 |      2 | Mon 8/31  | Student Assoc, EA6.101, 12PM-1PM |                                 |
-|      3 | Thu 9/10  | Seminar, S1.203                  | Yuqui Yang                      |
+|      3 | Thu 9/10  | Seminar, S1.203                  | Yuqiu "Ian" Yang                |
 |      4 | Mon 9/14  | Student Assoc, EA6.101, 12PM-1PM |                                 |
-|      5 | Thu 9/24  | Seminar, S1.203                  | TBD                             |
+|      5 | Thu 9/24  | Seminar, S1.203                  | Xihao Li                        |
 |      6 | Mon 9/28  | Student Assoc, EA6.101, 12PM-1PM |                                 |
 |      7 | Thu 10/8  | Seminar, S1.203                  | Daniella Meeker                 |
 |      8 | Wed 10/14 | Alumni Seminar                   | AJ Adejare                      |
 |      9 | Thu 10/22 | Seminar, S1.203                  | Suzanne Bakken                  |
 |     10 | Mon 10/26 | Student Assoc, EA6.101, 12PM-1PM |                                 |
 |     11 | Mon 11/2  | Student Assoc, EA6.101, 12PM-1PM |                                 |
-|     12 | Thu 11/12 | Seminar, R Auditorium            | TBD                             |
+|     12 | Thu 11/12 | Seminar, R Auditorium            | Jeong Hyun-Hwan                 |
 |     13 | Mon 11/16 | Student Assoc, EA6.101, 12PM-1PM |                                 |
 |     14 | Mon 11/23 | Student Assoc, EA6.101, 12PM-1PM |                                 |
 |     15 | Mon 11/30 | Student Assoc, EA6.101, 12PM-1PM |                                 |
